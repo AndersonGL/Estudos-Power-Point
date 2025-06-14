@@ -1,2 +1,2 @@
-# Power-Pointer
-Desenvolvendo apresentações com power pointer
+# Power-Point
+Desenvolvendo apresentações com power-point
