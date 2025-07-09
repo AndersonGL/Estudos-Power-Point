@@ -58,3 +58,5 @@
 
 **Anderson Gouveia Lignelli **  
 Estudos focados em ferramentas de apresentação, análise de dados e design digital.
+
+
