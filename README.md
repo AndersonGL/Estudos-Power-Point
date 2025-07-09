@@ -1,5 +1,3 @@
----
-
 ## 🎯 Objetivos de Aprendizado
 
 - Dominar os **principais recursos do PowerPoint**
